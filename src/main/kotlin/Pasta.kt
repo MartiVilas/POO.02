@@ -45,7 +45,7 @@ class Pasta {
         return  "Nom: $nom\n"+
                 "Calories: $calories\n" +
                 "Pes: $pes\n"+
-                "Preu: $preu\n"
+                "Preu: $preu €\n"
     }
 
 }

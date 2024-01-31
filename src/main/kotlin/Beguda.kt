@@ -34,7 +34,7 @@ class Beguda {
 
     override fun toString(): String {
         return  "Nom: $nom\n" +
-                "Preu: $preu\n"+
+                "Preu: $preu €\n"+
                 "Ensucrat: $ensucrat\n"
     }
 
