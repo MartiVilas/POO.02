@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7236f223-22b7-4d33-990a-e7a60ca4a1b7" name="Changes" comment="create project, class Beguda and Pasta" />
+    <list default="true" id="7236f223-22b7-4d33-990a-e7a60ca4a1b7" name="Changes" comment="cambi en el print del preu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Beguda.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Beguda.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +70,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="org.example.controlers(Mains).MainKt" />
       <module name="pastaObjecte.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +106,20 @@
       <option name="project" value="LOCAL" />
       <updated>1706693755790</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cambi en el print del preu">
+      <option name="closed" value="true" />
+      <created>1706694110636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706694110636</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project, class Beguda and Pasta" />
-    <option name="LAST_COMMIT_MESSAGE" value="create project, class Beguda and Pasta" />
+    <MESSAGE value="cambi en el print del preu" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambi en el print del preu" />
   </component>
 </project>

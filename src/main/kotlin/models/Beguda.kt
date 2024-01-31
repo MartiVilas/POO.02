@@ -1,4 +1,4 @@
-package org.example
+package org.example.models
 
 class Beguda {
 
@@ -37,6 +37,4 @@ class Beguda {
                 "Preu: $preu €\n"+
                 "Ensucrat: $ensucrat\n"
     }
-
-
 }
